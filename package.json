@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/ngo-wi/jekyll-gulp-sass-pug-BrowserSync-Starter-Kit/issues"
   },
-  "homepage": "https://github.com/ngo-wi/jekyll-gulp-sass-pug-BrowserSync-Starter-Kit#readme"
+  "homepage": "https://github.com/ngo-wi/jekyll-gulp-sass-pug-BrowserSync-Starter-Kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  }
 }
