@@ -1,7 +1,7 @@
-jekyll-gulp-sass-browser-sync
+jekyll-gulp-sass-pug-browser-sync
 =============================
 
-A starter project including full setup for Jekyll, GulpJS, SASS, Gup, AutoPrefixer &amp; BrowserSync
+A starter project including full setup for Jekyll, GulpJS, SASS, Pug, AutoPrefixer &amp; BrowserSync
 
 
 ## System Preparation
