@@ -28,7 +28,7 @@ gulp.task('jekyll-build', function (done) {
  * Rebuild Jekyll & do page reload
  */
 
-gulp.task('jekyll-rebuild', ['jekyll-build'], function(){
+gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 	browserSync.reload();
 });
 
