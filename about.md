@@ -1,6 +1,5 @@
 ---
 layout: default
-parmalink:/About/
 ---
 
 ### This is the about page header
