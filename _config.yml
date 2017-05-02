@@ -1,0 +1,4 @@
+title: Your New Jekyll Site
+markdown: redcarpet
+highlighter: rouge
+exclude: ["node_modules", "gulpfile.js", "package.json"]
