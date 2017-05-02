@@ -1,0 +1,26 @@
+{
+  "name": "jekyll-gulp-sass-pug-browsersync-starter-kit",
+  "version": "1.0.0",
+  "description": "\u0016A starter project including full setup for Jekyll, GulpJS, SASS & BrowserSync\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D, PUG\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D &Bro\u001b[3~\u001b[3~\u001b[C\u001b[ BrowserSync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngo-wi/jekyll-gulp-sass-pug-BrowserSync-Starter-Kit.git"
+  },
+  "keywords": [
+    "Jekyll",
+    "Gulp",
+    "Sass",
+    "Pug",
+    "BrowserSync"
+  ],
+  "author": "Ngowi, Peter Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngo-wi/jekyll-gulp-sass-pug-BrowserSync-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/ngo-wi/jekyll-gulp-sass-pug-BrowserSync-Starter-Kit#readme"
+}
